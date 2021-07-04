@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/45294902/124400639-8c379e00-dd41-11eb-8d7d-8380110aeee0.png)
+
+
 <h1 align="center">Hi 👋, I'm Pritha</h1>
 <h3 align="center">A passionate frontend developer and deep learning enthusiast from India</h3>
 
