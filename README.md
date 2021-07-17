@@ -13,8 +13,8 @@
 - 💬 Ask me about **React Js**
 
 - 📫 How to reach me **prithatiwari2@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14jNExoX1KwJEV6w42pNa422_fM4_JOBu/view?usp=sharing](https://drive.google.com/file/d/14jNExoX1KwJEV6w42pNa422_fM4_JOBu/view?usp=sharing)
+<!-- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/14jNExoX1KwJEV6w42pNa422_fM4_JOBu/view?usp=sharing](https://drive.google.com/file/d/14jNExoX1KwJEV6w42pNa422_fM4_JOBu/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
